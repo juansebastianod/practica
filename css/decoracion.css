@@ -1,0 +1,10 @@
+body{
+
+	width: 900px;
+	margin: auto;
+}
+nav li{
+
+	display: inline-block;
+	padding: : 5px;
+}

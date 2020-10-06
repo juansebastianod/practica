@@ -1,0 +1,72 @@
+h1{
+  margin-left: 700%;
+}
+
+footer {
+    position: relative;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image-footer {
+    width: 15%;
+    height: 80px;
+}
+
+.img-carrousel {
+    height: 200px;
+}
+
+.carrito-img {
+    width: 30px;
+    height: 30px;
+}
+
+.listado-section {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.container-sub {
+    margin-left: 20px;
+    width: 90%;
+    height: auto;
+}
+
+.card-size {
+    width: 14rem;
+}
+
+.segment-card {
+    font-size: 16px;
+}
+
+.price {
+    position: absolute;
+    right: 0px;
+}
+
+.btn {
+    width: 80px;
+    height: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 11px;
+}
+
+.btn-sec {
+    width: 60px;
+    height: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 11px;
+}
+
+.img-content-list {
+    width: 70%;
+    height: 100px;
+}
+
+.img-center-content {
+    margin: 20px;
+}
